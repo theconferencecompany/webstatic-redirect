@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "route": "/*",
+      "redirect": "https://theconferencecompany.com",
+      "statusCode": 301
+    }
+  ]
+}
